@@ -1,0 +1,14 @@
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\bin\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.exe
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\bin\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.deps.json
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\bin\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.runtimeconfig.json
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\bin\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.dll
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\bin\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.pdb
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.AssemblyInfoInputs.cache
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.AssemblyInfo.cs
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.dll
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\refint\Desafio Calculadora Partidas Rankeadas.dll
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.pdb
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\Desafio Calculadora Partidas Rankeadas.genruntimeconfig.cache
+C:\Projetos\Desafio Calculadora Partidas Rankeadas\obj\Debug\net8.0\ref\Desafio Calculadora Partidas Rankeadas.dll
